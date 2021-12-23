@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Maurilio Pereira, an accountant and programming/BI enthusiast.
-- 👀 I’m interested in VBA, SQL, Python and of course accounting.
+- 👋 Hi, I’m Maurilio Pereira, an accountant and also a programming/BI enthusiast.
+- 👀 I’m interested in VBA, SQL, Python, HTML and CSS.
 - 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to collaborate on anything I might be of help.
 - 📫 You can reach me on www.linkedin.com/in/mauriliopereira/
